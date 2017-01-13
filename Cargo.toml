@@ -1,0 +1,17 @@
+[package]
+name = "rustyplanet"
+version = "0.1.0"
+authors = ["greenmughal <greenmughal@gmail.com>"]
+
+[dependencies]
+sfml = ""
+multi-input = ""
+env_logger = "0.3"
+glutin = "0.6"
+winit = "0.5.1"
+cgmath = "0.7"
+genmesh = "0.4"
+noise = "0.1"
+rand = "0.3"
+gfx = {git = "https://github.com/gfx-rs/gfx.git" }
+gfx_app = {git = "https://github.com/gfx-rs/gfx.git" }
